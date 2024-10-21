@@ -27,4 +27,6 @@ By: Ana Alfaiate 102903 & Maria Inês Trigueiro 102902 & Salvador Florêncio 102
 * infomap
 * label-propagation
 * louvain
+
+
 (and correspondent .pkl - as an output of the algorithms)
